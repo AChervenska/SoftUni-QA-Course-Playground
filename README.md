@@ -2,4 +2,4 @@
 SoftUni-QA-Course-Playground
 
 
-1234
+1234 is a bad bug
